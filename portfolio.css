@@ -152,6 +152,8 @@ i {
     margin: 45px;
     text-decoration: none;
     font-weight: 100;
+}
+.footer i {
     vertical-align: middle;
 }
 .hidden {
